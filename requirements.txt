@@ -1,0 +1,11 @@
+numpy
+scipy 
+joblib 
+scikit-learn 
+matplotlib 
+pandas
+optuna
+seaborn
+jupyter
+plotly
+pyarrow
